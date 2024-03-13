@@ -1,1 +1,24 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_Mf1IwOD7Ee61PJSrCFFSbg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_7YgGUOD4Ee61PJSrCFFSbg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7YgGUOD4Ee61PJSrCFFSbg - ETL_CONTROL",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7YgGUOD4Ee61PJSrCFFSbg - PRODUCT_DETAILS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
