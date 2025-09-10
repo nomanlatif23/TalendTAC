@@ -113,4 +113,34 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_h89C0I4VEfCdybcVT2Cpjw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_aG2GYI4OEfCdybcVT2Cpjw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_aG2GYI4OEfCdybcVT2Cpjw - customer_sales",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_h89C0I4VEfCdybcVT2Cpjw",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_aG2GYI4OEfCdybcVT2Cpjw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_aG2GYI4OEfCdybcVT2Cpjw - customer_sales",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]

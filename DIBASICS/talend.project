@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_GlF0keE7Ee64SPBV63m5tw" label="DIBASICS" description="" language="java" technicalLabel="DIBASICS" author="_GlGboOE7Ee64SPBV63m5tw" productVersion="Talend Real-time Big Data Platform-8.0.1.20240718_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nomanlatif23/TalendTAC&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_GlF0keE7Ee64SPBV63m5tw" label="DIBASICS" description="" language="java" technicalLabel="DIBASICS" author="_GlGboOE7Ee64SPBV63m5tw" productVersion="Talend Data Management Platform-8.0.1.20250730_0900-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nomanlatif23/TalendTAC&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_Glwi8OE7Ee64SPBV63m5tw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_GlGboOE7Ee64SPBV63m5tw" login="nlatif@company.com" firstName="Noman" lastName="Latif" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_PeKnZeHDEe64SPBV63m5tw" login="admin@admin.com" firstName="Noman" lastName="Latif" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_nxmegOHEEe6ImOZB6VG2eA" login="noman.latif@qlik.com"/>
+  <TalendProperties:User xmi:id="_Nc1goI4IEfCzSdep24k32w" login="security@company.com" firstName="security" lastName="security" type="NPA" additionnalData="{}"/>
 </xmi:XMI>
